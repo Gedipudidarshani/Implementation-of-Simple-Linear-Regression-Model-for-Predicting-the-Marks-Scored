@@ -75,7 +75,16 @@ plt.show()
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![image](https://github.com/user-attachments/assets/40aa0093-96a9-4194-a80f-875b7cd02238)
+![image](https://github.com/user-attachments/assets/473c6db2-9678-4791-999d-fede26d7aae0)
+![image](https://github.com/user-attachments/assets/3358e667-a1a5-4a04-b7db-8d6be3080ef6)
+![image](https://github.com/user-attachments/assets/e3d7fda9-be2c-4ac5-948f-424356de6cad)
+![image](https://github.com/user-attachments/assets/981b2e22-e7aa-4e18-9580-c1e6f2297fef)
+![image](https://github.com/user-attachments/assets/9e642509-0f0e-4267-b093-f44d71fd9968)
+![image](https://github.com/user-attachments/assets/d8ce2355-db06-4014-8855-a5035d619c57)
+![image](https://github.com/user-attachments/assets/39cac148-6547-49d5-8614-7f6b018cd355)
+![image](https://github.com/user-attachments/assets/220916aa-696d-49ee-bbcb-bf2a1f5cf6b2)
+
 
 
 ## Result:
