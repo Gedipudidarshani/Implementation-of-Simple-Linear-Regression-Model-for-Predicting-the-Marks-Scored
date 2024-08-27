@@ -53,10 +53,12 @@ x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=0.2,random_state=0)
 ```
 ```
 x_train.shape
-x_test.shape
 ```
 ## Output:
 ![image](https://github.com/user-attachments/assets/e3d7fda9-be2c-4ac5-948f-424356de6cad)
+```
+x_test.shape
+```
 ![image](https://github.com/user-attachments/assets/981b2e22-e7aa-4e18-9580-c1e6f2297fef)
 ```
 from sklearn.linear_model import LinearRegression
